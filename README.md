@@ -2,8 +2,8 @@
 
 I'm a CS and Biz undergraduate at Nanyang Technological University, Singapore. 
 
-- 🌱 I'm currently learning distributed Systems and System Design
-- 🧠 I'm also currently in the process of getting my AWS SAA Certification and subsequently my AWS Developer Certification
+- 🌱 I'm currently learning more about `system design` and learning how to contribute to `open source projects`!
+- 🧠 I'm also currently in the process of getting my `AWS SAA` Certification and subsequently my `AWS Developer` Certification
 ---
 
 ## 🧑‍💻 Internships
