@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm `Zack`!
 
-<!--
-**donkey-king-kong/donkey-king-kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS and Biz undergraduate at Nanyang Technological University, Singapore. 
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning distributed Systems and System Design
+- 🧠 I'm also currently in the process of getting my AWS SAA Certification and subsequently my AWS Developer Certification
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Internships
+
+### 🔹 Software Engineer Intern @ Temus
+- Founded by `Temasek`
+- Worked on `TalentForge` & `BioGenerator` (AI-powered backend and vector-based retrieval system for talent management)
+- Built a `Retrieval Augmented Generator (RAG)` Workflow
+
+### 🔹 Data Analyst Intern @ Shopee
+- Web scraped competitors for real time and quick competitive pricing
+- Analyzed marketing performance and pricing trends to support strategic product launches
+- Automated uploading of Shopee Flash Deal discount process
+
+### 🔹 Data Analyst Intern @ DSTA
+- Team: `Security Engineering and C3 (SECC)`
+- Security surveillance analytics that reduced false positives by 30% in security monitoring systems
+
+---
+
+## 💼 Projects
+
+- `TweetGuardian` — NLP to detect cyber-bullying  
+  
+- `HomeGoWhere` — Home Rental Mobile App  
+
+- `HospitalManagementSystem` — OOP Project  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
