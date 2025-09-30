@@ -32,12 +32,10 @@ specific filters, which eliminated manual user updates and improved data integri
 ---
 
 ## 💼 Projects
+- `MentorBridge` - AI‑assisted mentorship mtaching, logging and analytics
 - `REACHCatalyst` - Real time district donor impact with donor letters
-
 - `TweetGuardian` — NLP to detect cyber-bullying  
-  
 - `HomeGoWhere` — Home Rental Mobile App  
-
 - `HospitalManagementSystem` — OOP Project  
 
 ---
