@@ -3,10 +3,17 @@
 I'm a CS and Biz undergraduate at Nanyang Technological University, Singapore. 
 
 - 🌱 I'm currently learning more about `system design` and learning how to contribute to `open source projects`!
-- 🧠 I'm also currently in the process of getting my `AWS SAA` Certification and subsequently my `AWS Developer` Certification
+- 🧠 I'm also currently in the process of getting my `Kubernetes CKAD` Certification and subsequently my `AWS Developer` Certification
 ---
 
 ## 🧑‍💻 Internships
+### 🔹 Software Engineer Intern @ SAP
+- Developed a CI/CD pipeline script to automate the update of Kubernetes deployment manifests with new
+image tags, enabling hands-off releases with ArgoCD
+- Integrated BlackDuck scanning into PR-triggered CI pipelines using Piper, enforcing pre-merge security
+checks and vulnerability reporting
+- Developed a new API feature to enable dynamic datasets to automatically ingest new records based on
+specific filters, which eliminated manual user updates and improved data integrity
 
 ### 🔹 Software Engineer Intern @ Temus
 - Founded by `Temasek`
