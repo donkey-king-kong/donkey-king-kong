@@ -32,6 +32,7 @@ specific filters, which eliminated manual user updates and improved data integri
 ---
 
 ## 💼 Projects
+- `REACHCatalyst` - Real time district donor impact with donor letters
 
 - `TweetGuardian` — NLP to detect cyber-bullying  
   
