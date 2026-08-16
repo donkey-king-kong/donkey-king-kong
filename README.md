@@ -7,6 +7,13 @@ I'm a CS and Biz undergraduate at Nanyang Technological University, Singapore.
 ---
 
 ## 🧑‍💻 Internships
+### 🔹 Software Engineer Intern @ TikTok
+- Tiktok Live
+
+### 🔹 Software Engineer Intern @ Millennium Capital Management
+- Equities Technology
+- `locates` short selling
+
 ### 🔹 Software Engineer Intern @ SAP
 - Developed a CI/CD pipeline script to automate the update of Kubernetes deployment manifests with new
 image tags, enabling hands-off releases with ArgoCD
