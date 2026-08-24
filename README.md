@@ -8,19 +8,17 @@ I'm a CS and Biz undergraduate at Nanyang Technological University, Singapore.
 
 ## 🧑‍💻 Internships
 ### 🔹 Software Engineer Intern @ TikTok
-- Tiktok Live
+- TikTok Live
 
 ### 🔹 Software Engineer Intern @ Millennium Capital Management
 - Equities Technology
 - `locates` short selling
 
 ### 🔹 Software Engineer Intern @ SAP
-- Developed a CI/CD pipeline script to automate the update of Kubernetes deployment manifests with new
-image tags, enabling hands-off releases with ArgoCD
-- Integrated BlackDuck scanning into PR-triggered CI pipelines using Piper, enforcing pre-merge security
-checks and vulnerability reporting
-- Developed a new API feature to enable dynamic datasets to automatically ingest new records based on
-specific filters, which eliminated manual user updates and improved data integrity
+- Document Grounding Team
+
+### 🔹 Software Engineer Intern @ SAP
+- Visual Inpsection Team
 
 ### 🔹 Software Engineer Intern @ Temus
 - Founded by `Temasek`
